@@ -48,8 +48,6 @@ Built with Next.js 14 • TypeScript • Tailwind CSS • Framer Motion
 
 </div>
 
-> 📸 *Add your own screenshots to `public/` after customizing*
-
 ---
 
 ## 🚀 Quick Start
