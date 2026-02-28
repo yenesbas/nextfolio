@@ -3,8 +3,8 @@ import { LanguageProficiency } from '@/types';
 export const languages: LanguageProficiency[] = [
   {
     language: {
-      de: 'Türkisch',
-      en: 'Turkish',
+      de: 'Ihre Muttersprache',
+      en: 'Your Native Language',
     },
     level: {
       de: 'Muttersprache',
@@ -14,8 +14,8 @@ export const languages: LanguageProficiency[] = [
   },
   {
     language: {
-      de: 'Deutsch',
-      en: 'German',
+      de: 'Zweite Sprache',
+      en: 'Second Language',
     },
     level: {
       de: 'Fachkundige Sprachkenntnisse (C1)',
@@ -25,8 +25,8 @@ export const languages: LanguageProficiency[] = [
   },
   {
     language: {
-      de: 'Englisch',
-      en: 'English',
+      de: 'Dritte Sprache',
+      en: 'Third Language',
     },
     level: {
       de: 'Obere Mittelstufe (B2)',
