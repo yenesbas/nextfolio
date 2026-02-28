@@ -2,7 +2,9 @@
 
 # ✨ Nextfolio
 
-**A stunning, modern portfolio template for developers**
+### *Your next portfolio should be Nextfolio.*
+
+**A stunning, modern portfolio template for developers who want to stand out.**
 
 Built with Next.js 14 • TypeScript • Tailwind CSS • Framer Motion
 
@@ -12,6 +14,10 @@ Built with Next.js 14 • TypeScript • Tailwind CSS • Framer Motion
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 [Demo](https://your-demo-url.vercel.app) • [Features](#-features) • [Quick Start](#-quick-start) • [Customization](#-customization) • [Deploy](#-deploy)
+
+---
+
+**Stop building portfolios from scratch.** Nextfolio gives you a production-ready, beautifully animated, and fully customizable portfolio in minutes. Just add your content and deploy.
 
 </div>
 
